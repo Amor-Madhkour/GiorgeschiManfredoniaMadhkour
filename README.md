@@ -1,5 +1,5 @@
 # GiorgeschiManfredoniaMadhkour
-SE2 project
+## SE2 project
 Software Engineering 2 Project, Politecnico di Milano (A.Y. 2022/23)
 The objective of this project is to apply in practice what we have learnt during lectures with the purpose of becoming familiar with software engineering practices and be able to address new software engineering issues in a rigorous way. The project includes two assignments:
 
@@ -27,9 +27,15 @@ d) acquire by the DSOs information about the current price of energy;
 e) decide from which DSO to acquire energy (if more than one is available);
 f) dynamically decide where to get energy for charging (station battery, DSO, or a mix thereof
 according to availability and cost).
+
 The interaction between the various providers (eMSPs, CPOs, and DSOs) occurs through uniform APIs. Thanks to this, an eMSP can interact with multiple CPOs and, on the other side, a CPO can interact with multiple eMSPs. Hence, users can exploit a large variety of charging options. Similarly, a CPO can interact with multiple DSOs and vice versa.
-Authors
-Tommaso Giorgeschi
-Daniele Manfredonia
-Amor Madhkour 
+
+## Authors
+
+* Tommaso Giorgeschi
+
+* Daniele Manfredonia
+
+* Amor Madhkour 
+
 Supervisor: Professor Rossi Matteo Giovanni
