@@ -34,6 +34,11 @@ according to availability and cost).
 
 The interaction between the various providers (eMSPs, CPOs, and DSOs) occurs through uniform APIs. Thanks to this, an eMSP can interact with multiple CPOs and, on the other side, a CPO can interact with multiple eMSPs. Hence, users can exploit a large variety of charging options. Similarly, a CPO can interact with multiple DSOs and vice versa.
 
+
+
+Since we use Google doc to write the document here there is a link to see all the history of the documents:
+* [RASD](https://docs.google.com/document/d/1ju-7AX9Tz9ayZfkL_pCP9Dp0biPJw3X0B6gOYnlgNpg/edit?usp=sharing)
+* 
 ## Authors
 
 * Tommaso Giorgeschi
