@@ -38,7 +38,7 @@ The interaction between the various providers (eMSPs, CPOs, and DSOs) occurs thr
 
 Since we use Google Docs to write the document here there are links to see all the commit of the documents:
 * [RASD](https://docs.google.com/document/d/1ju-7AX9Tz9ayZfkL_pCP9Dp0biPJw3X0B6gOYnlgNpg/edit?usp=sharing)
-* 
+* [DD](https://docs.google.com/document/d/1xIC5BhXMgeH1dTUm2VwmDXSwa731cpfF-aqMFoGGU9w/edit?usp=sharing)
 ## Authors
 
 * Tommaso Giorgeschi
