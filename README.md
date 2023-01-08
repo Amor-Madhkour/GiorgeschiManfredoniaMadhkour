@@ -39,6 +39,11 @@ The interaction between the various providers (eMSPs, CPOs, and DSOs) occurs thr
 Since we use Google Docs to write the document here there are links to see all the commit of the documents:
 * [RASD](https://docs.google.com/document/d/1ju-7AX9Tz9ayZfkL_pCP9Dp0biPJw3X0B6gOYnlgNpg/edit?usp=sharing)
 * [DD](https://docs.google.com/document/d/1xIC5BhXMgeH1dTUm2VwmDXSwa731cpfF-aqMFoGGU9w/edit?usp=sharing)
+
+
+We have uploaded all the diagrams in the folder in whuch they are related, i.e. to see the component's view images he should enter in the DD folder then in component's view subfolder and there will found all the images that are already in the document. same thing for all the other diagrams
+
+
 ## Authors
 
 * Tommaso Giorgeschi
