@@ -41,7 +41,7 @@ Since we use Google Docs to write the document here there are links to see all t
 * [DD](https://docs.google.com/document/d/1xIC5BhXMgeH1dTUm2VwmDXSwa731cpfF-aqMFoGGU9w/edit?usp=sharing)
 
 
-We have uploaded all the diagrams in the folder in whuch they are related, i.e. to see the component's view images he should enter in the DD folder then in component's view subfolder and there will found all the images that are already in the document. same thing for all the other diagrams
+We decided  to put all the images in the RASD and DD folder in order to have in the deliveryFolder only the documents. So we have uploaded all the updated diagrams in the folder in whuch they are related, i.e. to see the component's view images he should enter in the DD folder then in component's view subfolder and there will found all the images that are already in the document. same thing for all the other diagrams.
 
 
 ## Authors
